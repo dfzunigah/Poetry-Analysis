@@ -27,6 +27,8 @@ Un analizador de poesía basado en Python.
 
 [V4.6.0] >>Añadido<< Manejo de datos de entrada erróneos.
 
+[V4.7.0] >>Modificación<< Impresión de datos con formato. Separación entre procesos de análisis y comparación.
+
 Para ver las versiones, mire las [etiquetas en el repositorio](https://github.com/dfzunigah/Poetry-Analysis/releases)
 
 # Poetry Analizer [EN]
@@ -57,5 +59,7 @@ A Python based poetry ananlysis.
 [V4.5.0] >>Modification<< Code revision, tests, documentation, GitHub support, versioning, changelog, readme and topics.
 
 [V4.6.0] >>Added<< Input exceptions handling.
+
+[V4.7.0] >>Modification<< Analysis and comparing are now independent processes. Data is not format-printed.
 
 For the versions available, see the [tags on this repository](https://github.com/dfzunigah/Poetry-Analysis/releases).
